@@ -9,7 +9,7 @@ This project implements a simple shopping cart system in Python.
 - `test_shopping_cart.py`: Test script for testing the shopping cart functionality.
 - `run_tests.py`: Script for running the tests.
 - `.git`: Git folder for version control.
-- `run_tests.spec`: PyInstaller build specification file.
+- `shopping_cart.spec`: PyInstaller build specification file.
 
 ## Getting Started
 
